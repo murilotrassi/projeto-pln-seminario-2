@@ -1,0 +1,2 @@
+Esse arquivo só tem a finalidade de ancorar este diretório de forma que ele apareça no diff do github,
+facilitando o processo de configuração do ambiente.
